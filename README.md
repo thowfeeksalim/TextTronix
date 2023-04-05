@@ -5,8 +5,7 @@
 <a href="https://twitter.com/intent/follow?screen_name=thowfeeksalim6">
         <img src="https://img.shields.io/twitter/follow/thowfeeksalim6?style=social&logo=twitter"
             alt="follow on Twitter"></a>
-            
-<img src="/img/logo.png" alt="Logo" width="200" height="100">
+
 <br>
 <h1 align="center"> <strong> TextTronix </strong> </h1> 
 <p align="center">
@@ -23,7 +22,9 @@
     <a href="https://github.com/thowfeeksalim/textTronix/issues">Request Feature</a>
   </p>
 </p>
-
+<p align="center">            
+<img src="/public/img/logo.png">
+</p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -57,9 +58,9 @@
 
 
 # TextTronix - Stay Connected, Always 🌐💬
-
-<img src="/img/01.gif" alt="Logo" width="200" height="100">
-
+<p align="center">   
+<img src="/public/img/01.gif" alt="Logo">
+</p>
 #### TextTronix is a sophisticated web-based chat application that enables you to stay in touch with your friends and loved ones at all times and from any location. With TextTronix, you can create chat rooms, share your location, and express yourself with a broad range of expressive emojis.
 
 ## Features 🌟
@@ -161,10 +162,14 @@ SOFTWARE.
 [forks-shield]: https://img.shields.io/github/forks/thowfeeksalim/textTronix?style=for-the-ba
 
 ## Screenshot
+<p align="center">  
+<img src="/public/img/screenshot1.png">
+<br>
+<br>
+<img src="/public/img/screenshot.png">
 
-<img src="/img/screenshot.png">
 
-<img src="/img/screenshot1.png">
+
 
 ## Let's stay connected with TextTronix! 🌐💬
 
