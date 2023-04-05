@@ -1,12 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![pull][pull-requests-shield]][pull-requests-url]
-[![Issues][issues-shield]][issues-url]
-<a href="https://twitter.com/intent/follow?screen_name=thowfeeksalim6">
-        <img src="https://img.shields.io/twitter/follow/thowfeeksalim6?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
 
-<br>
 <h1 align="center"> <strong> TextTronix </strong> </h1> 
 <p align="center">
   <p align="center">
